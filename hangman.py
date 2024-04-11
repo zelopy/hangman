@@ -161,4 +161,7 @@ def main():
 
 
 if __name__ == "__main__":
+    """Main Application entry point"""
+    print("HANGMAN")
+    
     main()
